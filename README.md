@@ -80,6 +80,10 @@ The following dependencies are included in the `frontend/package.json`:
 - **Node.js:** JavaScript runtime for building server-side applications.
 - **Express:** A minimal and flexible Node.js web application framework for building APIs.
 - **MongoDB:** NoSQL database for data storage, accessed via Mongoose for object modeling.
+- **Mongoose:** ODM for MongoDB.
+- **Cors:** For handling cross-origin requests.
+- **Body-parser:** Middleware for parsing incoming request bodies.
+- **Dotenv:** For environment variable management.
 - **Node-Cron:** For scheduling tasks to fetch weather data periodically.
 - **Nodemailer:** For sending email notifications and alerts.
 
